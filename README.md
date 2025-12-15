@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elshafei</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
-- 🌱 I’m actively building real projects using Flutter Framework**
+- 🌱 I’m actively building real projects using Flutter Framework
 
 - 💬 Ask me about **anything**
 
